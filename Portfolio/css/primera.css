@@ -1,5 +1,6 @@
 body, html {
-    background-image: url("../media/w4.jpg");
+    /*background-image: url("../media/w4.jpg");*/
+    background: black;
 
 }
 
@@ -35,10 +36,29 @@ td{
     padding:8px;
 }
 
-h1{
+h1,p{
     text-align: center;
     font-family: cursive;
     font-size: 60px;
     color:white;
     margin-bottom: 50px;
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none;
+    color:gray;
+}
+
+.return{
+    text-align: center;
+    font-family: cursive;
+    font-size: 30px;
+    color:white;
+    margin-top: 70px;
+    text-decoration: none;
 }

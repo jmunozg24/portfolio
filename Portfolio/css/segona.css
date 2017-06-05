@@ -44,4 +44,23 @@ img {
 p{
     text-align: center;
     color:white;
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none;
+    color:gray;
+}
+
+.return{
+    text-align: center;
+    font-family: cursive;
+    font-size: 30px;
+    color:white;
+    margin-top: 70px;
+    text-decoration: none;
 }
