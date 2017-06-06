@@ -1,0 +1,57 @@
+body{
+    background-color:aquamarine;
+}
+
+h1{
+    text-align: center;
+    font-family: cursive;
+    font-size: 45px;
+    color:black;
+    margin-bottom: 0px;
+}
+
+#contenido{
+    width:90%;
+    position: relative;
+    margin:50px auto 50px;
+
+}
+
+img{
+    position: relative;
+    margin:50px auto 50px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none;
+    color:gray;
+}
+
+.return{
+    text-align: center;
+    font-family: cursive;
+    font-size: 30px;
+    color:black;
+    margin-top: 70px;
+    text-decoration: none;
+}
+
+table{
+    border:1px solid blue;
+    width:100%;
+    margin-bottom: 50px;
+}
+
+th{
+    font-weight: bold;
+    border-bottom:1px solid blue;
+    background-color:darkseagreen;
+}
+
+td{
+    border-bottom:1px solid blue;
+}
